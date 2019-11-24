@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'auto: bug'
 assignees: ''
 
 ---
@@ -24,5 +24,4 @@ If you have answered **no** to one of these, please correct it before posting an
 4. Is Optifine installed or any other additional mods: **yes (list) / no**
 
 **Describe the issue**
-
 A clear and concise description of what the issue is.

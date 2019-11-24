@@ -2,7 +2,7 @@
 name: Help wanted
 about: Request for support
 title: ''
-labels: ''
+labels: 'auto: help'
 assignees: ''
 
 ---
