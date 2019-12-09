@@ -6,5 +6,6 @@ labels: 'auto: question'
 assignees: ''
 
 ---
-
-**Modpack-relevant question:**
+<!--
+Please make sure your question is relevant to the modpack.
+-->
