@@ -4,10 +4,10 @@
 2. Click on Modpack Options cogwheel in the top right corner
 3. Click on Open at the top right corner of the pop-up window
 
-#### Twitch:
-1. Select the Mods tab
-2. Click on Minecraft
-3. Right click on The 1.12.2 Pack and select Open Folder
+#### CurseForge:
+1. Select the Minecraft tab
+2. Right click on The 1.12.2 Pack
+3. Click on Open Folder
 
 ### Finding latest game log location:
 1. Go to the [modpack installation folder](https://github.com/xJon/The-1.12.2-Pack/blob/master/log_location.md#finding-modpack-installation-folder) in the platform you're using
