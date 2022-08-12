@@ -19,7 +19,7 @@ Please fill in the following information.
 **no / yes**.
 
 <!--
-Please post logs only using paste-tools like https://paste.ubuntu.com or https://pastebin.com/index.
+Please post logs only using paste-tools like https://mclo.gs/ or https://pastebin.com/index.
 -->
 
 **Information required**
