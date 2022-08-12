@@ -12,12 +12,12 @@
 ### Finding latest game log location:
 1. Go to the [modpack installation folder](https://github.com/xJon/The-1.12.2-Pack/blob/master/log_location.md#finding-modpack-installation-folder) in the platform you're using
 2. Go to the "logs" folder
-3. Open the latest.log file & copy its content over to a paste-tool of your choise, like [paste.ubuntu.com](https://paste.ubuntu.com)
+3. Open the latest.log file & copy its content over to a paste-tool of your choice, like [mclo.gs](https://mclo.gs/)
 4. Click Paste! and send over the link
 
 
 ### Finding crash report location:
 1. Go to the [modpack installation folder](https://github.com/xJon/The-1.12.2-Pack/blob/master/log_location.md#finding-modpack-installation-folder) in the platform you're using
 2. Go to the "crash-reports" folder
-3. Choose the crash report you want to share & copy its content over to a paste-tool of your choise, like [pastebin.com](https://pastebin.com/index)
+3. Choose the crash report you want to share & copy its content over to a paste-tool of your choice, like [pastebin.com](https://pastebin.com/index)
 4. Click Create New Paste and share over the link
