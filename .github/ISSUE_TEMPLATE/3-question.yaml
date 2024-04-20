@@ -1,0 +1,28 @@
+name: Question
+description: Ask a question regarding the modpack
+labels: "auto: question"
+body:
+- type: checkboxes
+  id: exists
+  attributes:
+    label: Was this question asked before?
+    description: You can check using the search bar.
+    options:
+      - label: "No, it was not."
+        required: true
+
+- type: textarea
+  id: support-description
+  validations:
+    required: true
+  attributes:
+    label: What is your question?
+    description: Please make sure your question is relevant to the modpack.
+    placeholder: |
+      Why is this not like this and that?
+
+- type: markdown
+  attributes:
+    value: |
+      ---
+      <a href="https://the-1122-pack.com/"><img src="https://i.imgur.com/4ZlB8WC.png" width="64"></a>

@@ -1,0 +1,32 @@
+name: Suggestion
+description: Suggest a feature for the modpack
+labels: "auto: suggestion"
+body:
+- type: markdown
+  attributes:
+    value: "## Thank you for making a suggestion!"
+
+- type: checkboxes
+  id: exists
+  attributes:
+    label: Was this feature suggested before?
+    description: You can check using the search bar.
+    options:
+      - label: "No, it was not."
+        required: true
+
+- type: textarea
+  id: feature-description
+  validations:
+    required: true
+  attributes:
+    label: What is your suggestion?
+    description: Try to include reasons for your feature suggestion.
+    placeholder: |
+      Adding this and changing this would be really neat, because...
+
+- type: markdown
+  attributes:
+    value: |
+      ---
+      <a href="https://the-1122-pack.com/"><img src="https://i.imgur.com/4ZlB8WC.png" width="64"></a>

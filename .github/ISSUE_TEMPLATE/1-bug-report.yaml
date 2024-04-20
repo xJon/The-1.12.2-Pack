@@ -1,0 +1,54 @@
+name: Bug Report
+description: Report a bug to help improve the modpack
+labels: "auto: bug"
+body:
+- type: markdown
+  attributes:
+    value: "## Thank you for reporting a bug!"
+
+- type: checkboxes
+  id: exists
+  attributes:
+    label: Was this bug reported before?
+    description: You can check using the search bar.
+    options:
+      - label: "No, it was not."
+        required: true
+
+- type: input
+  id: log
+  attributes:
+    label: Please provide a link to your crash report or latest.log, if relevant
+    description: "The `latest.log` file is found in `\/logs\/` within the modpack files.\nWe recommend always using https://mclo.gs/." 
+    placeholder: https://mclo.gs/MydIQBu...
+
+- type: input
+  id: additional-mods
+  attributes:
+    label: If you have any, please provide a list of additional mods
+    description: Leave blank if you have none.
+    placeholder: OptiFine, Edible Crayons...
+
+- type: textarea
+  id: issue-description
+  validations:
+    required: true
+  attributes:
+    label: Please describe the issue you are experiencing
+    description: Try to include detailed reproduction steps for the issue.
+    placeholder: |
+      Huge bubbles appear in-game.
+      
+      How to reproduce:
+      1. First go like this.
+      2. Spin around...stop!
+      3. Double take three times! 1, 2, 3.
+      4. Then...Pelvic Thrust! Woooh! Woooh! Stop on your right foot, don't forget it!
+      5. Now it's time to bring it around town! Bring it around town!
+      6. Then you do this! Then this and this and this and that and this and that and this and that and this and then!
+
+- type: markdown
+  attributes:
+    value: |
+      ---
+      <a href="https://the-1122-pack.com/"><img src="https://i.imgur.com/4ZlB8WC.png" width="64"></a>
