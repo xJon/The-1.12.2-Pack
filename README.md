@@ -4,9 +4,7 @@ The 1.12.2 Pack
 
 This repository is for general support, reporting bugs, providing suggestions and general questions.
 
-[![The 1.12.2 Pack](https://i.imgur.com/XWwz8Lt.png)](http://the-1122-pack.com)
-
-You can [support back](https://bit.ly/The-1-12-2-Pack-Donate).
+[![The 1.12.2 Pack](https://i.imgur.com/XWwz8Lt.png)](https://technicpack.net/modpack/the-1122-pack)
 
 ---
 
